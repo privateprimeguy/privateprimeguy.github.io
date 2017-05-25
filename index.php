@@ -1,0 +1,26 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title> The Hunter </title>
+        <link rel="stylesheet" type="text/css" href="stylesheet.css">
+    </head>
+    <body>
+        <div class="wrapper">
+            <div class='containter'>
+                <div class="header">
+                    <img id='headerImg' src="img/header.png">
+                </div>
+                <center><iframe style=" border:0 ; overflow: hidden;" width="700" height="500" src="./iframe.php" scrolling="no" frameborder="0"></iframe>
+                </center>
+                <p> Copyright 2014, Eder O'Shanahan </p>
+            </div>
+            
+            <div class="push"></div>
+        </div>
+        <div class="footer">
+
+        </div>
+    </body>
+</html>
